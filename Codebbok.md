@@ -31,7 +31,7 @@ Following the steps to create a more meaningful and tidy dataset.
 *Combine the test and train dataset using rbind function in data.frame called data.
  
 ###2.Extracts only the measurements on the mean and standard deviation for each measurement.
-i. Extract the names of columns from the data.frame(feature) with measurements on the mean and standard
+* Extract the names of columns from the data.frame(feature) with measurements on the mean and standard
  using the grep function in fmeanstd
 ii. subset the data dataframe and get the required fields only.
  
