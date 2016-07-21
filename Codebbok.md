@@ -1,5 +1,6 @@
-##This document describes the variables, the data, and any transformations or work that was performed to clean up the data for the
-assignment.
+## Getting and Cleaning Data Course
+
+This document describes the variables, the data, and any transformations or work that was performed to clean up the data for the assignment.
 
 About the Data :
 For this assignment, the data was taken from one of the most exciting areas in all of data science,wearable computing.
